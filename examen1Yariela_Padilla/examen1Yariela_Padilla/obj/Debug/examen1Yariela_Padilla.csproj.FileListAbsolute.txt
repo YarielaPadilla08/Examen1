@@ -1,0 +1,7 @@
+C:\Users\LEVONO\Desktop\Progra2\examen1Yariela_Padilla\examen1Yariela_Padilla\bin\Debug\examen1Yariela_Padilla.exe.config
+C:\Users\LEVONO\Desktop\Progra2\examen1Yariela_Padilla\examen1Yariela_Padilla\bin\Debug\examen1Yariela_Padilla.exe
+C:\Users\LEVONO\Desktop\Progra2\examen1Yariela_Padilla\examen1Yariela_Padilla\bin\Debug\examen1Yariela_Padilla.pdb
+C:\Users\LEVONO\Desktop\Progra2\examen1Yariela_Padilla\examen1Yariela_Padilla\obj\Debug\examen1Yariela_Padilla.csproj.AssemblyReference.cache
+C:\Users\LEVONO\Desktop\Progra2\examen1Yariela_Padilla\examen1Yariela_Padilla\obj\Debug\examen1Yariela_Padilla.csproj.CoreCompileInputs.cache
+C:\Users\LEVONO\Desktop\Progra2\examen1Yariela_Padilla\examen1Yariela_Padilla\obj\Debug\examen1Yariela_Padilla.exe
+C:\Users\LEVONO\Desktop\Progra2\examen1Yariela_Padilla\examen1Yariela_Padilla\obj\Debug\examen1Yariela_Padilla.pdb
